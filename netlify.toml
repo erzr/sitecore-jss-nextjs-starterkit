@@ -5,3 +5,16 @@
   
 [[plugins]]
 package = "netlify-plugin-cache-nextjs"
+
+[template]
+  UNIFORM_API_KEY = ""
+  UNIFORM_API_TOKEN = ""
+  UNIFORM_API_URL = ""
+  UNIFORM_DATA_URL = ""
+  UNIFORM_API_SITENAME = ""
+  UNIFORM_API_DEFAULT_LANGUAGE = ""
+  NPM_TOKEN = ""
+
+[template.environment]
+  UNIFORM_PUBLISH_TARGET = ""
+  NETLIFY_ACCESS_TOKEN = ""
